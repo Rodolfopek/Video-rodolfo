@@ -1,0 +1,6 @@
+{
+  "name": "Nova Player",
+  "description": "Reproductor de video profesional y moderno con gestos táctiles avanzados, control de brillo, volumen, velocidad, zoom y subtítulos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

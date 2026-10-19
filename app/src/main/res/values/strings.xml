@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Nova Player</string>
+    <string name="open_videos">Abrir Videos</string>
+    <string name="play_url">Reproducir URL</string>
+    <string name="demo_video">Video de Demostración</string>
+    <string name="subtitles">Subtítulos</string>
+    <string name="aspect_ratio">Relación de Aspecto</string>
+    <string name="playback_speed">Velocidad</string>
+    <string name="sleep_timer">Temporizador</string>
+    <string name="night_filter">Filtro Nocturno</string>
+    <string name="screen_locked">Pantalla bloqueada</string>
+    <string name="screen_unlocked">Pantalla desbloqueada</string>
+    <string name="ab_repeat">Bucle A-B</string>
+</resources>
